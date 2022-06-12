@@ -8,5 +8,6 @@
  * Color Change
  * Ender Bootscreen
 
+Please change the platformio ini to match "default_envs = STM32F103RE_creality"
 
 Licensed unger GNU GPLv3 like Marlin
