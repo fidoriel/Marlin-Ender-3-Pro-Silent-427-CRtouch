@@ -15,4 +15,4 @@ See the corresponding branch
 
 Please change the platformio ini to match `default_envs = STM32F103RE_creality`
 
-Licensed unger GNU GPLv3 like Marlin
+Licensed under GNU GPLv3 like Marlin
